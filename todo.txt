@@ -1,0 +1,12 @@
+Things to extract:
+
+- All photos of me
+- All photos uploaded by me
+/ All messages I've sent and received
+- All posts and comments in groups I'm a member of
+/ All posts I've created (status updates, links, stuff that is on my wall)
+/ All posts made on my wall/timeline
+- All the pictures in /me/feed
+- A complete friends list
+- All likes, movies, music, etc.
+- All notes created by me
